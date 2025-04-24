@@ -67,9 +67,3 @@ This notebook extends the sentiment analysis by mapping each review to a specifi
    - Start with sentiment classification (`sentiment analysis.ipynb`)
    - Then run product categorization (`sentiment analysis and product categorization.ipynb`)
 
----
-
-## 💬 License
-
-This project is licensed under the MIT License.
-
