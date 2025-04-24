@@ -2,7 +2,7 @@
 
 This project explores and analyzes user reviews from the **Amazon Fine Food Reviews** dataset. It includes two key Jupyter notebooks that work together to assess the sentiment of reviews and categorize them into meaningful product categories.
 
-## 📂 Notebooks
+## Notebooks
 
 ### 1. `Amazon fine food reviews - sentiment analysis.ipynb`
 
@@ -35,7 +35,7 @@ This notebook extends the sentiment analysis by mapping each review to a specifi
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python (Pandas, NLTK, Scikit-learn)
 - Jupyter Notebook
@@ -44,14 +44,14 @@ This notebook extends the sentiment analysis by mapping each review to a specifi
 
 ---
 
-## 📈 Dataset
+## Dataset
 
 - [Amazon Fine Food Reviews Dataset](https://www.kaggle.com/snap/amazon-fine-food-reviews)  
   Contains over 500,000 food reviews from Amazon spanning several years.
 
 ---
 
-## 🔍 Use Cases
+## Use Cases
 
 - Identify customer satisfaction trends across food product categories.
 - Highlight top-performing and poorly received food items.
@@ -59,7 +59,7 @@ This notebook extends the sentiment analysis by mapping each review to a specifi
 
 ---
 
-## 📌 How to Use
+## How to Use
 
 1. Clone the repository.
 2. Install the required libraries from `requirements.txt` (optional).
